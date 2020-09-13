@@ -24,16 +24,19 @@
     width: 60%;
 }
 
-.videoFooter_icon {
-    padding-top: 7px;
-}
+/*.videoFooter_icon {*/
+/*    padding-top: 7px;*/
+/*}*/
 .videoFooter_record{
     animation: spinTheRecord infinite 5s linear;
     height: 50px;
-    fillter:invert(1);
+    filter:invert(1);
     position:absolute;
     bottom: 0;
     right: 20px;
+}
+.videoFooter_icon {
+    position: absolute;
 }
 @keyframes spinTheRecord {
     from{
