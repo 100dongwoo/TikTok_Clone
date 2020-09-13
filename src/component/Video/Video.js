@@ -1,5 +1,6 @@
 import React, { useRef, useState } from 'react';
 import './Video.css';
+import VideoFooter from './VideoFooter/VideoFooter';
 function Video(props) {
     const videoRef = useRef(null);
     const [playing, setPlaying] = useState(false);
@@ -21,8 +22,9 @@ function Video(props) {
                 className="video_player"
                 loop
                 ref={videoRef}
-                src="https://media.w3.org/2010/05/sintel/trailer_hd.mp4"
+                src="http://techslides.com/demos/sample-videos/small.mp4"
             />
+            <VideoFooter />
             {/*  videoFooter  */}
             {/*videoSidebar (like,comment  ....)*/}
             <div className="app_videos"></div>
