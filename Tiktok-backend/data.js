@@ -1,21 +1,14 @@
 const data = [
   {
-    url: "http://techslides.com/demos/sample-videos/small.mp4",
-    channel: "Let it go",
-    description: "cheers man",
-    shares: "123",
-    likes: "423",
-    song: "LA song",
-    message: "Hello man",
-  },
-  {
-    url: "http://techslides.com/demos/sample-videos/small.mp4",
-    channel: "cheer",
-    description: "cheers",
-    shares: "312",
-    likes: "423",
-    song: "LA song",
-    message: "Hello man",
+    url: "sample3.mp4",
+    channel: "bipinkarki1",
+    description: "bipi song",
+    song: "la la la ow ow ",
+    like: "100",
+    share: "200",
+    messages: "200",
   },
 ];
+
 export default data;
+// module.exports = {data};
