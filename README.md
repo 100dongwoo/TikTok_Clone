@@ -1,4 +1,4 @@
-# #TIK TOK clone
+# #TIK TOK Clone
 
 ## Building the SLACK app
 ###### Front End
@@ -13,7 +13,7 @@
 * Node JS
 * Mongo DB(npm i express mongoose)
 * Express js server
-* Hostring on Heroku
+* Hosting on Heroku
 * Mongoose (Mogodb)
 
 #### DATE
@@ -25,8 +25,8 @@ Start date : 2020-09-13 ~ <br>
 https://slack-clone-a8239.web.app
 
 #### What I didn't know or confusing
-1. useRef             <br>
-2.                 <br>
+1. useRef<br>
+2.               <br>
 3.              <br>
 4.              <br>
 5.                  <br>
